@@ -8,7 +8,7 @@ app.use(cors());
 const mongoose = require('mongoose');
 
 // // Connect to MongoDB
-mongoose.connect("mongodb+srv://johnkhore26:664uTcUG5tTZKKJ6@cluster0.wqtpk.mongodb.net/", {
+mongoose.connect("mongodb+srv://johnkhore26:lRJVTUbbJ9687Mvt@cluster0.hh5ogco.mongodb.net/", {
 })
 .then(() => {
     console.log("Connection Successful");
